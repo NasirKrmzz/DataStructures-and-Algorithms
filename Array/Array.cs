@@ -25,7 +25,7 @@ namespace Algorithms_Data_structures.Array
 
          **********************************************************************************
 
-            /* 2️⃣ Dizinin Başına Eleman Ekleme(Zor ve Yavaş 😰)
+            /* 2️⃣ Dizinin Başına Eleman Ekleme(Zor ve Yavaş )
                 Bütün elemanları sağa kaydırıp ilk elemanı değiştirmek gerekir.
                 Her eleman bir sonraki indekse taşınır, en başa yeni eleman eklenir.
                 Zaman Karmaşıklığı: O(n)*/
@@ -41,7 +41,7 @@ namespace Algorithms_Data_structures.Array
 
         **********************************************************************************
 
-                   /* 3️⃣ Dizinin Ortasına Eleman Ekleme(Orta Seviye Zorluk 😓)
+                   /* 3️⃣ Dizinin Ortasına Eleman Ekleme(Orta Seviye Zorluk )
                         Belli bir indekse eleman eklemek için geri kalan elemanları sağa kaydırmak gerekir.
                         Zaman Karmaşıklığı: O(n)*/
                                int[] dizi = new int[6] { 1, 2, 3, 4, 5, 0 };
@@ -56,7 +56,7 @@ namespace Algorithms_Data_structures.Array
 
         **********************************************************************************
 
-                   /* 2️⃣ Dizinin Başından Eleman Silme (Orta Seviye Zorluk 😰)
+                   /* 2️⃣ Dizinin Başından Eleman Silme (Orta Seviye Zorluk)
                 İlk elemanı silmek için tüm elemanları sola kaydırmak gerekir.
                 Bütün elemanlar bir pozisyon sola kaydırılır, son eleman artık kullanılmaz.
                 Zaman Karmaşıklığı: O(n)(Çünkü tüm elemanları kaydırmak gerekir.)*/
@@ -72,7 +72,7 @@ namespace Algorithms_Data_structures.Array
 
         **********************************************************************************
 
-                /* 3️⃣ Dizinin Ortasından Eleman Silme (Zor ve Yavaş 😓)
+                /* 3️⃣ Dizinin Ortasından Eleman Silme (Zor ve Yavaş )
                 Belli bir indeksteki elemanı silmek için geri kalanları sola kaydırmak gerekir.
                 Örneğin, 3. elemanı silmek için 4. ve sonrasını sola kaydırırız.
                 Zaman Karmaşıklığı: O(n)(Kaydırma işlemi nedeniyle yavaş.)*/
