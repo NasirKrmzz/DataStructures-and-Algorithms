@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\LinkedList\\TestClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinkedList\\TestClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\1_73ewmtPRczt7gxEXoz5RUA.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Stacks\\1_73ewmtPRczt7gxEXoz5RUA.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\LinkedList\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinkedList\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\TestClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Stacks\\TestClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\LinkedList\\LinkedList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LinkedList\\LinkedList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Stacks\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,39 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TestClass.cs",
-              "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\LinkedList\\TestClass.cs",
-              "RelativeDocumentMoniker": "LinkedList\\TestClass.cs",
-              "ToolTip": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\LinkedList\\TestClass.cs",
-              "RelativeToolTip": "LinkedList\\TestClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T15:24:38.603Z",
-              "EditorCaption": ""
+              "Title": "1_73ewmtPRczt7gxEXoz5RUA.png - PNG [651x381, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\1_73ewmtPRczt7gxEXoz5RUA.png",
+              "RelativeDocumentMoniker": "Stacks\\1_73ewmtPRczt7gxEXoz5RUA.png",
+              "ToolTip": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\1_73ewmtPRczt7gxEXoz5RUA.png - PNG [651x381, 32 bit, PNG]",
+              "RelativeToolTip": "Stacks\\1_73ewmtPRczt7gxEXoz5RUA.png - PNG [651x381, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-01T13:40:02.157Z",
+              "EditorCaption": " - PNG [651x381, 32 bit, PNG]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Node.cs",
-              "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\LinkedList\\Node.cs",
-              "RelativeDocumentMoniker": "LinkedList\\Node.cs",
-              "ToolTip": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\LinkedList\\Node.cs",
-              "RelativeToolTip": "LinkedList\\Node.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TestClass.cs",
+              "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\TestClass.cs",
+              "RelativeDocumentMoniker": "Stacks\\TestClass.cs",
+              "ToolTip": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\TestClass.cs",
+              "RelativeToolTip": "Stacks\\TestClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T15:24:36.149Z"
+              "WhenOpened": "2025-03-01T13:37:37.483Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LinkedList.cs",
-              "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\LinkedList\\LinkedList.cs",
-              "RelativeDocumentMoniker": "LinkedList\\LinkedList.cs",
-              "ToolTip": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\LinkedList\\LinkedList.cs",
-              "RelativeToolTip": "LinkedList\\LinkedList.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Title": "stack.cs",
+              "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\stack.cs",
+              "RelativeDocumentMoniker": "Stacks\\stack.cs",
+              "ToolTip": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\stack.cs",
+              "RelativeToolTip": "Stacks\\stack.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T15:24:05.117Z"
+              "WhenOpened": "2025-03-01T13:37:25.19Z",
+              "EditorCaption": ""
             }
           ]
         }

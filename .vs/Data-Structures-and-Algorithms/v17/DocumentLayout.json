@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Queue\\First-In-First-Out-Queue-1024x683.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Queue\\First-In-First-Out-Queue-1024x683.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\1_73ewmtPRczt7gxEXoz5RUA.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Stacks\\1_73ewmtPRczt7gxEXoz5RUA.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
@@ -31,6 +35,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "First-In-First-Out-Queue-1024x683.png - PNG [1024x683, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Queue\\First-In-First-Out-Queue-1024x683.png",
+              "RelativeDocumentMoniker": "Queue\\First-In-First-Out-Queue-1024x683.png",
+              "ToolTip": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Queue\\First-In-First-Out-Queue-1024x683.png - PNG [1024x683, 32 bit, PNG]",
+              "RelativeToolTip": "Queue\\First-In-First-Out-Queue-1024x683.png - PNG [1024x683, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-01T14:27:35.238Z",
+              "EditorCaption": " - PNG [1024x683, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "1_73ewmtPRczt7gxEXoz5RUA.png - PNG [651x381, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\1_73ewmtPRczt7gxEXoz5RUA.png",
               "RelativeDocumentMoniker": "Stacks\\1_73ewmtPRczt7gxEXoz5RUA.png",
@@ -42,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TestClass.cs",
               "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\TestClass.cs",
               "RelativeDocumentMoniker": "Stacks\\TestClass.cs",
@@ -50,12 +66,11 @@
               "RelativeToolTip": "Stacks\\TestClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T13:37:37.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T13:37:37.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "stack.cs",
               "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\stack.cs",
               "RelativeDocumentMoniker": "Stacks\\stack.cs",
@@ -63,8 +78,7 @@
               "RelativeToolTip": "Stacks\\stack.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T13:37:25.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T13:37:25.19Z"
             }
           ]
         }
