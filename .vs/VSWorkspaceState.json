@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Queue",
-    "\\Stacks"
+    "\\Queue"
   ],
-  "SelectedNode": "\\Queue\\First-In-First-Out-Queue-1024x683.png",
+  "SelectedNode": "\\Queue\\Queue.cs",
   "PreviewInSolutionExplorer": false
 }
