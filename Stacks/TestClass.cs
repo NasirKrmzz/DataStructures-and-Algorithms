@@ -39,5 +39,4 @@ namespace Algorithms_Data_structures.Stacks
     Console.WriteLine(var);
 }
 
-}   
-}
+} }

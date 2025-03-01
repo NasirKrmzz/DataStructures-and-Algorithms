@@ -51,5 +51,47 @@ namespace Algorithms_Data_structures.Stacks
             return (Top == MaxSize - 1);
         }
 
+
+        static void Main(string[] args)
+        {
+            /* 
+             1) Stack (Yığın), LIFO (Last In, First Out – Son Giren İlk Çıkar) prensibiyle çalışan bir veri yapısıdır.
+             Yani en son eklenen eleman, ilk olarak çıkarılır.
+             
+             Stack Operasyonları
+             1 ) Push(T item) → Stack'e yeni bir eleman ekler.
+             2 ) Pop() → Stack’in en üstündeki elemanı çıkarır ve döndürür.
+             3 ) Peek() → Stack’in en üstündeki elemanı döndürür ancak çıkartmaz.
+             4 ) Count → Stack’te kaç eleman olduğunu döndürür.
+             5 ) Contains(T item) → Belirtilen elemanın Stack içinde olup olmadığını kontrol eder.
+             6 ) Clear() → Stack’teki tüm elemanları temizler.
+            
+             */
+
+            Stack<String> banknotes = new Stack<String>();
+            Console.WriteLine("Size : " + banknotes.Count());
+            banknotes.Push("200 TL");
+            banknotes.Push("100 TL ");
+            banknotes.Push("50 TL ");
+            banknotes.Push("20 TL ");
+            banknotes.Push("10 TL ");
+            banknotes.Push("5 TL ");
+
+            Console.WriteLine("size :" + banknotes.Count());
+            foreach (var item in banknotes)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("Peek : " + banknotes.Peek());
+            Console.WriteLine("Size :" + banknotes.Count());
+            Console.WriteLine(banknotes.Pop());
+            Console.WriteLine(banknotes.Pop());
+            Console.WriteLine("Size :" + banknotes.Count());
+
+            foreach (var item in banknotes)
+            {
+                Console.WriteLine(item);
+            }
+        }
     }
 }
