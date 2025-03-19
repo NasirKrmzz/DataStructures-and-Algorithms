@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Binary Search Array\\binarryseacrh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Binary Search Array\\binarryseacrh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Queue\\Queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Queue\\Queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,6 +55,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "binarryseacrh.cs",
+              "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Binary Search Array\\binarryseacrh.cs",
+              "RelativeDocumentMoniker": "Binary Search Array\\binarryseacrh.cs",
+              "ToolTip": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Binary Search Array\\binarryseacrh.cs",
+              "RelativeToolTip": "Binary Search Array\\binarryseacrh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T10:35:12.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Queue.cs",
               "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Queue\\Queue.cs",
               "RelativeDocumentMoniker": "Queue\\Queue.cs",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ListQueue.cs",
               "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Queue\\ListQueue.cs",
               "RelativeDocumentMoniker": "Queue\\ListQueue.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Iqueue.cs",
               "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Queue\\Iqueue.cs",
               "RelativeDocumentMoniker": "Queue\\Iqueue.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BasicQueue.cs",
               "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Queue\\BasicQueue.cs",
               "RelativeDocumentMoniker": "Queue\\BasicQueue.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "First-In-First-Out-Queue-1024x683.png - PNG [1024x683, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Queue\\First-In-First-Out-Queue-1024x683.png",
               "RelativeDocumentMoniker": "Queue\\First-In-First-Out-Queue-1024x683.png",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "1_73ewmtPRczt7gxEXoz5RUA.png - PNG [651x381, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\1_73ewmtPRczt7gxEXoz5RUA.png",
               "RelativeDocumentMoniker": "Stacks\\1_73ewmtPRczt7gxEXoz5RUA.png",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TestClass.cs",
               "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\TestClass.cs",
               "RelativeDocumentMoniker": "Stacks\\TestClass.cs",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "stack.cs",
               "DocumentMoniker": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Stacks\\stack.cs",
               "RelativeDocumentMoniker": "Stacks\\stack.cs",
