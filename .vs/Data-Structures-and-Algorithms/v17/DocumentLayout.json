@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Queue\\Queue.cs",
               "ToolTip": "C:\\Users\\Nadolink\\source\\repos\\Data-Structures-and-Algorithms\\Queue\\Queue.cs",
               "RelativeToolTip": "Queue\\Queue.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwEsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T14:34:07.591Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "Queue\\ListQueue.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAiwEQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T14:31:58.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T14:31:58.425Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Queue\\Iqueue.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T14:31:56.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T14:31:56.783Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Queue\\BasicQueue.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAiwHAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T14:31:54.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T14:31:54.413Z"
             },
             {
               "$type": "Document",
